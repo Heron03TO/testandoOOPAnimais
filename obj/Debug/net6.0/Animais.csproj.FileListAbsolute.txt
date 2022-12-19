@@ -1,0 +1,15 @@
+C:\Users\VAIO\Desktop\Projetos\Animais\bin\Debug\net6.0\Animais.exe
+C:\Users\VAIO\Desktop\Projetos\Animais\bin\Debug\net6.0\Animais.deps.json
+C:\Users\VAIO\Desktop\Projetos\Animais\bin\Debug\net6.0\Animais.runtimeconfig.json
+C:\Users\VAIO\Desktop\Projetos\Animais\bin\Debug\net6.0\Animais.dll
+C:\Users\VAIO\Desktop\Projetos\Animais\bin\Debug\net6.0\Animais.pdb
+C:\Users\VAIO\Desktop\Projetos\Animais\obj\Debug\net6.0\Animais.csproj.AssemblyReference.cache
+C:\Users\VAIO\Desktop\Projetos\Animais\obj\Debug\net6.0\Animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAIO\Desktop\Projetos\Animais\obj\Debug\net6.0\Animais.AssemblyInfoInputs.cache
+C:\Users\VAIO\Desktop\Projetos\Animais\obj\Debug\net6.0\Animais.AssemblyInfo.cs
+C:\Users\VAIO\Desktop\Projetos\Animais\obj\Debug\net6.0\Animais.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\Desktop\Projetos\Animais\obj\Debug\net6.0\Animais.dll
+C:\Users\VAIO\Desktop\Projetos\Animais\obj\Debug\net6.0\refint\Animais.dll
+C:\Users\VAIO\Desktop\Projetos\Animais\obj\Debug\net6.0\Animais.pdb
+C:\Users\VAIO\Desktop\Projetos\Animais\obj\Debug\net6.0\Animais.genruntimeconfig.cache
+C:\Users\VAIO\Desktop\Projetos\Animais\obj\Debug\net6.0\ref\Animais.dll
